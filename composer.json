@@ -1,0 +1,8 @@
+{
+  "name": "ubm/urna",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
